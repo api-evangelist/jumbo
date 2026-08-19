@@ -29,7 +29,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 x-status: acquired
 x-status-detail: Acquired by Coalition in July 2023; consumer app shut down. No public API surface.
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-19'
 tags:
