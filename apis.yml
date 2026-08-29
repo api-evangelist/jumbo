@@ -32,6 +32,8 @@ description: 'Jumbo (Jumbo Privacy) was a consumer privacy and security assistan
   API Evangelist profile is retained as a portfolio-company record for index-ventures; no API surface
   exists to enrich.'
 url: https://raw.githubusercontent.com/api-evangelist/jumbo/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
